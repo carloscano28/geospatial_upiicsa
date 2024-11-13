@@ -752,7 +752,7 @@ PlayerSettings:
   webGLMemoryGeometricGrowthCap: 96
   webGLPowerPreference: 2
   scriptingDefineSymbols:
-    Android: ARCORE_INTERNAL_GEOSPATIAL_CREATOR_ENABLED;READY_PLAYER_ME;CC_TOOLS
+    Android: ARCORE_INTERNAL_GEOSPATIAL_CREATOR_ENABLED;CC_TOOLS;READY_PLAYER_ME
     EmbeddedLinux: READY_PLAYER_ME;CC_TOOLS
     GameCoreScarlett: READY_PLAYER_ME;CC_TOOLS
     GameCoreXboxOne: READY_PLAYER_ME;CC_TOOLS
@@ -796,7 +796,7 @@ PlayerSettings:
   useDeterministicCompilation: 1
   additionalIl2CppArgs: 
   scriptingRuntimeVersion: 1
-  gcIncremental: 1
+  gcIncremental: 0
   gcWBarrierValidation: 0
   apiCompatibilityLevelPerPlatform: {}
   m_RenderingPath: 1
