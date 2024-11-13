@@ -752,8 +752,23 @@ PlayerSettings:
   webGLMemoryGeometricGrowthCap: 96
   webGLPowerPreference: 2
   scriptingDefineSymbols:
-    Android: ARCORE_INTERNAL_GEOSPATIAL_CREATOR_ENABLED
-    iPhone: ARCORE_INTERNAL_GEOSPATIAL_CREATOR_ENABLED
+    Android: ARCORE_INTERNAL_GEOSPATIAL_CREATOR_ENABLED;CC_TOOLS;READY_PLAYER_ME
+    EmbeddedLinux: READY_PLAYER_ME;CC_TOOLS
+    GameCoreScarlett: READY_PLAYER_ME;CC_TOOLS
+    GameCoreXboxOne: READY_PLAYER_ME;CC_TOOLS
+    LinuxHeadlessSimulation: READY_PLAYER_ME;CC_TOOLS
+    Nintendo Switch: READY_PLAYER_ME;CC_TOOLS
+    PS4: READY_PLAYER_ME;CC_TOOLS
+    PS5: READY_PLAYER_ME;CC_TOOLS
+    QNX: READY_PLAYER_ME;CC_TOOLS
+    Stadia: READY_PLAYER_ME;CC_TOOLS
+    Standalone: READY_PLAYER_ME;CC_TOOLS
+    VisionOS: READY_PLAYER_ME;CC_TOOLS
+    WebGL: READY_PLAYER_ME;CC_TOOLS
+    Windows Store Apps: READY_PLAYER_ME;CC_TOOLS
+    XboxOne: READY_PLAYER_ME;CC_TOOLS
+    iPhone: ARCORE_INTERNAL_GEOSPATIAL_CREATOR_ENABLED;READY_PLAYER_ME;CC_TOOLS
+    tvOS: READY_PLAYER_ME;CC_TOOLS
   additionalCompilerArguments: {}
   platformArchitecture: {}
   scriptingBackend:
@@ -781,7 +796,7 @@ PlayerSettings:
   useDeterministicCompilation: 1
   additionalIl2CppArgs: 
   scriptingRuntimeVersion: 1
-  gcIncremental: 1
+  gcIncremental: 0
   gcWBarrierValidation: 0
   apiCompatibilityLevelPerPlatform: {}
   m_RenderingPath: 1
