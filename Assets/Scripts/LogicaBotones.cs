@@ -11,12 +11,12 @@ public class LogicaBotones : MonoBehaviour
 {
 
     public void RealidadAumentada(){
-        SceneManager.LoadScene("");
+        SceneManager.LoadScene("ARCore_Geospatial_Upiicsa");
 
     }
 
     public void RealidadVirtual(){
-        SceneManager.LoadScene("");
+        SceneManager.LoadScene("Demo_Convai_Upiicsa - Mobile");
 
     }
 
@@ -25,11 +25,11 @@ public class LogicaBotones : MonoBehaviour
     }
 
     public void Salida(){
-        //application.quit();
+        Application.Quit();
     }
 
     public void Atras(){
-        SceneManager.LoadScene("MenuPrincipal");
+        SceneManager.LoadScene("Menu");
 
     } 
 }
