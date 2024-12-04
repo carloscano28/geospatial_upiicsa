@@ -4537,6 +4537,9 @@ PrefabInstance:
       insertIndex: -1
       addedObject: {fileID: 1789284020}
     m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 5593283035882158840, guid: 3f202eb6fe3075d4a8c8cd0278aa3975, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1589926282}
     - targetCorrespondingSourceObject: {fileID: 7270382047880329426, guid: 3f202eb6fe3075d4a8c8cd0278aa3975, type: 3}
       insertIndex: -1
       addedObject: {fileID: 1666116687}
@@ -4546,6 +4549,20 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 5593283035882158839, guid: 3f202eb6fe3075d4a8c8cd0278aa3975, type: 3}
   m_PrefabInstance: {fileID: 1589926279}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &1589926281 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 5593283035882158840, guid: 3f202eb6fe3075d4a8c8cd0278aa3975, type: 3}
+  m_PrefabInstance: {fileID: 1589926279}
+  m_PrefabAsset: {fileID: 0}
+--- !u!45 &1589926282
+Skybox:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1589926281}
+  m_Enabled: 1
+  m_CustomSkybox: {fileID: 2100000, guid: 7416536dbe0334cfd888dd1beb75a9fb, type: 2}
 --- !u!1 &1616338172
 GameObject:
   m_ObjectHideFlags: 0
