@@ -17,4 +17,8 @@ public class MenuScript : MonoBehaviour
         Debug.Log("Salimos de la app");
         Application.Quit();
     }
+    public void Atras(){
+        SceneManager.LoadScene("Menu");
+
+    } 
 }
