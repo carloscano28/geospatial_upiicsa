@@ -776,7 +776,7 @@ GameObject:
   - component: {fileID: 241186983}
   - component: {fileID: 241186982}
   m_Layer: 0
-  m_Name: Convai_geospatial_Ligeros_Anchor2
+  m_Name: Convai_geospatial_Pesados_Anchor2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -828,9 +828,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _altitudeOffset: NaN
-  _latitude: 37.42205865037442
-  _longitude: -122.08287614136472
-  _altitude: -10.499998341314495
+  _latitude: 19.395050561950224
+  _longitude: -99.09013359733237
+  _altitude: 2275.2001969795674
   _altitudeType: 0
   _useEditorAltitudeOverride: 0
   _editorAltitudeOverride: 0
@@ -981,9 +981,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _altitudeOffset: NaN
-  _latitude: 37.42340921024013
-  _longitude: -122.08676358314092
-  _altitude: 8.351012987084687
+  _latitude: 19.396404191641064
+  _longitude: -99.09340830949215
+  _altitude: 2294.051216817461
   _altitudeType: 0
   _useEditorAltitudeOverride: 0
   _editorAltitudeOverride: 0
@@ -998,7 +998,7 @@ Transform:
   m_GameObject: {fileID: 394378647}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -414.9, y: -3.16, z: -24.4}
+  m_LocalPosition: {x: -414.9, y: -3.16, z: -24.399994}
   m_LocalScale: {x: 4, y: 4, z: 4}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -1670,9 +1670,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _altitudeOffset: NaN
-  _latitude: 37.42368766758032
-  _longitude: -122.08508705428203
-  _altitude: 9.205490190535784
+  _latitude: 19.396683251229323
+  _longitude: -99.09199602744339
+  _altitude: 2294.9056925587356
   _altitudeType: 0
   _useEditorAltitudeOverride: 0
   _editorAltitudeOverride: 0
@@ -1797,7 +1797,7 @@ GameObject:
   - component: {fileID: 634950769}
   - component: {fileID: 634950768}
   m_Layer: 0
-  m_Name: Convai_geospatial_Ligeros_Anchor
+  m_Name: Convai_geospatial_Pesados_Anchor
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1849,9 +1849,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _altitudeOffset: NaN
-  _latitude: 37.421561647872565
-  _longitude: -122.08303543137818
-  _altitude: -9.879701660946012
+  _latitude: 19.39455244268224
+  _longitude: -99.09026778225414
+  _altitude: 2275.820494292304
   _altitudeType: 0
   _useEditorAltitudeOverride: 0
   _editorAltitudeOverride: 0
@@ -2919,9 +2919,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _altitudeOffset: NaN
-  _latitude: 37.42298496156373
-  _longitude: -122.08532880109428
-  _altitude: -2.0154994623735547
+  _latitude: 19.395978968672715
+  _longitude: -99.0921996807711
+  _altitude: 2283.6846994739026
   _altitudeType: 0
   _useEditorAltitudeOverride: 0
   _editorAltitudeOverride: 0
@@ -2991,9 +2991,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _altitudeOffset: NaN
-  _latitude: 37.422774946962456
-  _longitude: -122.08436851271608
-  _altitude: 29.60184023436159
+  _latitude: 19.39576847338101
+  _longitude: -99.09139075025053
+  _altitude: 2315.3020372614264
   _altitudeType: 0
   _useEditorAltitudeOverride: 0
   _editorAltitudeOverride: 0
@@ -3825,9 +3825,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _altitudeOffset: NaN
-  _latitude: 37.421438751811145
-  _longitude: -122.0826479396362
-  _altitude: 19.60044890269637
+  _latitude: 19.39442927049735
+  _longitude: -99.08994136156905
+  _altitude: 2305.300645178184
   _altitudeType: 0
   _useEditorAltitudeOverride: 0
   _editorAltitudeOverride: 0
@@ -4048,9 +4048,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _altitudeOffset: NaN
-  _latitude: 37.421963140848874
-  _longitude: -122.08206500654096
-  _altitude: 43.00040534045547
+  _latitude: 19.39495483924766
+  _longitude: -99.08945030460333
+  _altitude: 2328.7006008950993
   _altitudeType: 0
   _useEditorAltitudeOverride: 0
   _editorAltitudeOverride: 0
@@ -4198,9 +4198,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _altitudeOffset: NaN
-  _latitude: 37.42203522182742
-  _longitude: -122.08359577389835
-  _altitude: 6.400336023420095
+  _latitude: 19.395027081993785
+  _longitude: -99.09073980904832
+  _altitude: 2292.1005315184593
   _altitudeType: 0
   _useEditorAltitudeOverride: 0
   _editorAltitudeOverride: 0
@@ -4286,9 +4286,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _altitudeOffset: NaN
-  _latitude: 37.423044327070144
-  _longitude: -122.08574792970943
-  _altitude: 11.84598373901099
+  _latitude: 19.396038472717382
+  _longitude: -99.0925527473499
+  _altitude: 2297.5461836177856
   _altitudeType: 0
   _useEditorAltitudeOverride: 0
   _editorAltitudeOverride: 0
@@ -5003,7 +5003,7 @@ Transform:
   m_GameObject: {fileID: 1614718921}
   serializedVersion: 2
   m_LocalRotation: {x: -0.51125115, y: 0.4884898, z: -0.4884898, w: -0.51125115}
-  m_LocalPosition: {x: -90.7, y: -22, z: -36.8}
+  m_LocalPosition: {x: -90.7, y: -22, z: -36.800003}
   m_LocalScale: {x: 2, y: 2, z: 2}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -5040,9 +5040,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _altitudeOffset: NaN
-  _latitude: 37.42329755184941
-  _longitude: -122.08310096051548
-  _altitude: -10.498570739291608
+  _latitude: 19.396292247611246
+  _longitude: -99.09032298104533
+  _altitude: 2275.2016277266666
   _altitudeType: 0
   _useEditorAltitudeOverride: 0
   _editorAltitudeOverride: 0
@@ -5628,9 +5628,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _altitudeOffset: NaN
-  _latitude: 37.42298406224561
-  _longitude: -122.08530451502835
-  _altitude: -10.495573758147657
+  _latitude: 19.395978067063343
+  _longitude: -99.0921792225705
+  _altitude: 2275.2046251380816
   _altitudeType: 0
   _useEditorAltitudeOverride: 0
   _editorAltitudeOverride: 0
@@ -7127,9 +7127,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _altitudeOffset: NaN
-  _latitude: 37.423400263084936
-  _longitude: -122.08255981412957
-  _altitude: 13.501697805710137
+  _latitude: 19.39639518972535
+  _longitude: -99.08986712870853
+  _altitude: 2299.201896842569
   _altitudeType: 0
   _useEditorAltitudeOverride: 0
   _editorAltitudeOverride: 0
@@ -7144,7 +7144,7 @@ Transform:
   m_GameObject: {fileID: 1992232516}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0.64258343, z: -0, w: 0.7662158}
-  m_LocalPosition: {x: -42.8, y: 2, z: -25.4}
+  m_LocalPosition: {x: -42.8, y: 2, z: -25.399994}
   m_LocalScale: {x: 4, y: 4, z: 4}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -7821,9 +7821,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _altitudeOffset: NaN
-  _latitude: 37.42189015878404
-  _longitude: -122.08334000527294
-  _altitude: -10.209815898910165
+  _latitude: 19.394881692259865
+  _longitude: -99.09052435237265
+  _altitude: 2275.490379584022
   _altitudeType: 0
   _useEditorAltitudeOverride: 0
   _editorAltitudeOverride: 0
