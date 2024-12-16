@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: Upiicsa Geospatial
+  productName: Geospacial Upiicsa
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -141,6 +141,10 @@ PlayerSettings:
   tvOSBundleVersion: 1.0
   bundleVersion: 0.1
   preloadedAssets:
+  - {fileID: -7463484379781946691, guid: f3cbb8ca2a82293449dcebaf84d0adde, type: 2}
+  - {fileID: 11400000, guid: ce32ce40e5997e644bf0edc17f39881f, type: 2}
+  - {fileID: 4800000, guid: c9f956787b1d945e7b36e0516201fc76, type: 3}
+  - {fileID: 4800000, guid: 0945859e5a1034c2cb6dce53cb4fb899, type: 3}
   - {fileID: 11400000, guid: 05e0956b79c430e4abd6a0ecdaffb98e, type: 2}
   metroInputSource: 0
   wsaTransparentSwapchain: 0
@@ -162,7 +166,7 @@ PlayerSettings:
   androidSupportedAspectRatio: 1
   androidMaxAspectRatio: 2.1
   applicationIdentifier:
-    Android: com.DefaultCompany.UpiicsaGeospatial
+    Android: com.DefaultCompany.GeospacialUpiicsa
   buildNumber:
     Standalone: 0
     VisionOS: 0
